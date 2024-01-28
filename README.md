@@ -32,12 +32,11 @@ Users should be able to:
 
 ### Screenshot
 
-![Screenshot of the solution](./images/screenshot-solution.jpg)
+![Screenshot of the solution](./screenshot/Order-Summary.png)
 
 ### Links
 
-- Solution URL: [order-summary-component solution on Github](https://github.com/dkaffes/order-summary-component)
-- Live Site URL: [order-summary-component live site](https://dkaffes.github.io/order-summary-component/)
+- Solution URL: [order-summary-component solution on Github](https://github.com/kiranhamail/order-summary)
 
 ## My process
 
@@ -47,7 +46,7 @@ The CSS styling was done trying to avoid unnecessary declarations.
 
 ### Built with
 
-- Semantic HTML5 markup
+- HTML
 - CSS custom properties
 - Flexbox
 
